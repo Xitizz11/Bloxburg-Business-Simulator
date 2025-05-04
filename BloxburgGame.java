@@ -1,6 +1,3 @@
-
-// Removed Business class as it is now in its own file
-
 public class BloxburgGame {
     public static void main(String[] args) {
         // Create businesses using different constructors
